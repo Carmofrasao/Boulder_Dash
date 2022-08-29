@@ -6,3 +6,13 @@ Autor:
 Frasão, A. A. C.
 
 releitura do jogo Boulder Dash.
+
+Para jogar
+
+Compile o codigo com
+
+> make
+
+Rode com
+
+>
