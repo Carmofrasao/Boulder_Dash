@@ -15,4 +15,4 @@ Compile o codigo com
 
 Rode com
 
->
+> ./game
