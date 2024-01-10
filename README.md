@@ -10,7 +10,7 @@ Implementar uma releitura do jogo Boulder Dash.
 
 Execuçao
 
-O jogo foi desenvolvido usando a biblioteca grafica Allegro. Para instalar este pacote, verifique qual e seu sistema operacional, e use as intruçoes presentes em [Allegro - Download] (https://liballeg.org/download.html).
+O jogo foi desenvolvido usando a biblioteca grafica Allegro. Para instalar este pacote, verifique qual e seu sistema operacional, e use as intruçoes presentes em [Allegro - Download](https://liballeg.org/download.html).
 
 Com o biblioteca instalada, compile o codigo
 
