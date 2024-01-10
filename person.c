@@ -20,8 +20,6 @@ biblioteca para trabalhar com o player*/
 #define KEY_SEEN     1
 #define KEY_RELEASED 2
 
-unsigned char key[ALLEGRO_KEY_MAX];
-
 float x, y;
 
 ALLEGRO_BITMAP* miner;

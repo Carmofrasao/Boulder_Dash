@@ -1,5 +1,7 @@
 # Boulder Dash
 
+At the moment it's not working, I think the problem is with the version of gcc.
+
 Work done for the programming 2 subject in the Computer Science course at the Federal University of Paraná.
 
 Done by Anderson Frasão

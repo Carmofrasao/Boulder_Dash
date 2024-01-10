@@ -21,6 +21,8 @@ funcoes e estrutura para todo o programa*/
 #define PERSON_W 8
 #define PERSON_H 8
 
+unsigned char key[ALLEGRO_KEY_MAX];
+
 typedef enum TERRA_TYPE
 {
 	TERRA_TYPE_TERRA,

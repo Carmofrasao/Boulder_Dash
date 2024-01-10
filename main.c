@@ -41,8 +41,6 @@ int posi_moeday[] = {80,  112, 176, 224, 272, 80,  112, 176, 224, 272, 80,  112,
 
 bool keys[4] = {false, false, false, false};
 
-unsigned char key[ALLEGRO_KEY_MAX];
-
 void keyboard_init()
 {
     memset(key, 0, sizeof(key));
