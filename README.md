@@ -1,21 +1,21 @@
 # Boulder Dash
 
-Trabalho feito para a matéria de programação 2, no curso de Ciencia da Computação, da Universidade Federal do Paraná.
+Work done for the programming 2 subject in the Computer Science course at the Federal University of Paraná.
 
-Feito por Anderson Frasão
+Done by Anderson Frasão
 
-Objetivo
+Objective
 
-Implementar uma releitura do jogo Boulder Dash.
+To implement a retelling of the game Boulder Dash.
 
-Execuçao
+Execution
 
-O jogo foi desenvolvido usando a biblioteca grafica Allegro. Para instalar este pacote, verifique qual e seu sistema operacional, e use as intruçoes presentes em [Allegro - Download](https://liballeg.org/download.html).
+The game was developed using the Allegro graphics library. To install this package, check your operating system and use the instructions in [Allegro - Download](https://liballeg.org/download.html).
 
-Com o biblioteca instalada, compile o codigo
+Once the library is installed, compile the code
 
 > make
 
-E execute o jogo
+And run the game
 
 > ./game
