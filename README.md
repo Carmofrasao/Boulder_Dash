@@ -4,14 +4,18 @@ Trabalho feito para a matéria de programação 2, no curso de Ciencia da Comput
 
 Feito por Anderson Frasão
 
-releitura do jogo Boulder Dash.
+Objetivo
 
-Para jogar
+Implementar uma releitura do jogo Boulder Dash.
 
-Compile o codigo com
+Execuçao
+
+O jogo foi desenvolvido usando a biblioteca grafica Allegro. Para instalar este pacote, verifique qual e seu sistema operacional, e use as intruçoes presentes em [Allegro - Download] (https://liballeg.org/download.html).
+
+Com o biblioteca instalada, compile o codigo
 
 > make
 
-Rode com
+E execute o jogo
 
 > ./game
